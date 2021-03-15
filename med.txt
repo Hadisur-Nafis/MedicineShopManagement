@@ -1,0 +1,13 @@
+			Brand Name: ACI,
+ 			Medicine Name: Abixa,
+ 			Amount of Medicine: 110,
+ 			Name: Hadisur,
+ 			Father's Name: Razzaque,
+ 			City/Village Name: Karnipara,
+ 			House Number: 254,
+ 			Thana Name: Bagmara,
+ 			Distric Name: Rajshahi,
+ 			Bkash Number: 1773106350,
+ 			Verify Number: 124578,
+ 			Bkash Password: 11522.
+ 

@@ -1,0 +1,129 @@
+			Brand: Beximco
+			Medicine: Acifix
+			Price: 120tk
+			
+			Brand: Beximco
+			Medicine: Aristocal
+			Price: 80tk
+			
+			Brand: Beximco
+			Medicine: clobex
+			Price: 150tk
+			
+			Brand: Beximco
+			Medicine: Cox B
+			Price: 125tk
+			
+			Brand: Beximco
+			Medicine: Cerivin
+			Price: 100tk
+			
+			Brand: ACI
+			Medicine: Abixa
+			Price: 110tk
+			
+			Brand: ACI
+			Medicine: Acical
+			Price: 70tk
+			
+			Brand: ACI
+			Amlex
+			Price: 80tk
+			
+			Brand: ACI
+			Medicine: Cab
+			Price: 200tk
+			
+			Brand: ACI
+			Medicine: Denicol
+			Price: 65tk
+			
+			Brand: Amce
+			Medicine: A-Cold
+			Price: 130tk
+			
+			Brand: Amce
+			Medicine: A-Fenac
+			Price: 140tk
+			
+			Brand: Amce
+			Medicine: A Fenac Jel
+			Price: 90tk
+			
+			Brand: Amce
+			Medicine: D-Calex
+			Price: 180tk
+			
+			Brand: Amce
+			Medicine: Calbo-B
+			Price: 45tk
+			
+			Brand: Squre
+			Medicine: Ace plus
+			Price: 110tk
+			
+			Brand: Squre
+			Medicine: Adryl
+			Price: 210tk
+			
+			Brand: Squre
+			Medicine: Cabrol
+			Price: 80tk
+			
+			Brand: Squre
+			Medicine: Calbo-C
+			Price: 250tk
+			
+			Brand: Squre
+			Medicine: Ceevit
+			Price: 20tk
+			
+			Brand: SK+F
+			Medicine: Alcet
+			Price: 60tk
+			
+			Brand: Squre
+			Medicine: Rosela
+			Price: 180tk
+			
+			Brand: Squre
+			Medicine: Vifas
+			Price: 270tk
+			
+			Brand: Squre
+			Medicine: Esita
+			Price: 175tk
+			
+			Brand: Squre
+			Medicine: Danilo
+			Price: 350tk
+			
+			Brand: Squre
+			Medicine: Nayproxen
+			Price: 160tk
+			
+			Brand: Squre
+			Medicine: Tramadol
+			Price: 90tk
+			
+			Brand: Healthcare
+			Medicine: Acifix
+			Price: 245tk
+			
+			Brand: Healthcare
+			Medicine: Aristocal
+			Price: 420tk
+			
+			Brand: Healthcare
+			Medicine: clobex
+			Price: 130tk
+			
+			Brand: Healthcare
+			Medicine: Cox B
+			Price: 275tk
+			
+			Brand: Healthcare
+			Medicine: Cerivin
+			Price: 360tk
+
+
